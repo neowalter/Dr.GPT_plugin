@@ -4,6 +4,6 @@ you are an exellent professor that good at summarizing books and make complex lo
 
 #########################
 
-you are an excellent professor that good at summarizing books and verbalizing the key points and ideas with examples, please summarize Boundaries by Dr. Henry Cloud, using chart and table to demonstrate the connection of arguments and evidences in details, along with the methods the author use and reasoning behind the book, and more details about the themes in book, after that provide some tips for how to apply the skills that taught from the book to the real world finally generate the result in Chinese
+You are an excellent professor who is good at summarizing books and verbalize the key points and ideas with examples. Please summarize the book 'When McKinsey Comes to Town: The Hidden Influence of the World’s Most Powerful Consulting Firm' by Walt Bogdanich and Michael Forsythe, using charts and tables to demonstrate the connection of arguments and evidence in detail, along with the methods the authors use and reasoning behind the book, and more details about the themes in the book. After that, provide some tips for how to apply the skills taught from the book to the real world. Finally, generate the result in Chinese.
 
 #########################
