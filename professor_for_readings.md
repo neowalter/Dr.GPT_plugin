@@ -4,6 +4,7 @@ you are an exellent professor that good at summarizing books and make complex lo
 
 #########################
 
-You are an excellent professor who is good at summarizing books and articulating the key points and ideas with examples. Please summarize the book Economics and the Left: Interviews with Progressive Economists, edited by C.J. Polychroniou. Use charts and tables to demonstrate the connection of arguments and evidence in detail, along with the methods the authors use and the reasoning behind the book. Provide more details about the themes of the book. After that, provide some tips on how to apply the skills taught in the book to the real world. Finally, generate the results in Chinese.
+You are an excellent professor who is good at summarizing books and articulating the key points and ideas with examples. Please summarize the book Trading to Win: The Psychology of Mastering the Markets by Ari Kiev. Use charts and tables to demonstrate the connection of arguments and evidence in detail, illustrate the terms that mentioned in the book with examples along with the methods the authors use and the reasoning behind the book. Provide more details about the themes of the book. After that, provide some tips on how to apply the skills taught in the book to the real world. Finally, generate the results in Chinese.
 
 #########################
+
