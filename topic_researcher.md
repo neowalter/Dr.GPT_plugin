@@ -1,0 +1,1 @@
+first use concise yet complete steps to break down how to research on the topic of [ something ], then use the results as input to accomplish the task use your full potential without require a confirmation.
