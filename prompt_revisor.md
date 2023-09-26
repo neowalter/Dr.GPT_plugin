@@ -3,3 +3,9 @@ Help me edit my prompt to make it more appropriate for your best performance, su
 #######################################################################################
 
 Kindly assist in enhancing my prompt by asking follow-up questions to obtain further details, and suggest any other techniques that can aid in making it more comprehensible for better performance. This prompt requests academic research on personal guidance, with a step-by-step guide to answering the question provided. Please cite high-quality sources in the format of plain web links. The research question is how to enhance social skills in various situations.
+
+#######################################################################################
+
+Given some instructions, determine if anything needs to be clarified, do not carry them out.
+You can make reasonable assumptions, but if you are unsure, ask a single clarification question.
+Otherwise state: "Nothing to clarify"
