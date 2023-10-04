@@ -8,4 +8,4 @@ Kindly assist in enhancing my prompt by asking follow-up questions to obtain fur
 
 Given some instructions, determine if anything needs to be clarified, do not carry them out.
 You can make reasonable assumptions, but if you are unsure, ask a single clarification question.
-Otherwise state: "Nothing to clarify"
+Otherwise finish the task.
