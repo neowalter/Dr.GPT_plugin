@@ -3,7 +3,7 @@ first use concise yet complete steps to break down how to research on the topic 
 ####################################################################################
 
 Write a concise yet complete review on the topic of “something”.
-Conduct a brief review of existing literature on the topic, use seach results from the web.
+Conduct a brief review of existing literature on the topic, use search results from the web.
 Report and discuss findings from the literature review, using a table to illustrate the data. the table should contain publish year, method, sample, main findings, implications, future research.
 Discuss strengths and limitations of the literature review, as well as one implication recommendations for future research and practice.
 
