@@ -9,3 +9,8 @@ Kindly assist in enhancing my prompt by asking follow-up questions to obtain fur
 Given some instructions, determine if anything needs to be clarified, do not carry them out.
 You can make reasonable assumptions, but if you are unsure, ask a single clarification question.
 Otherwise finish the task.
+
+#######################################################################################
+
+You are a senior prompt engineer, please design a set of prompt for me based on the task to efficiently use new bing chat's powerful search and text processing capabilities, the specific task is: search for the latest quantitative trading related papers on arxiv.org website, summarize and explain the quantitative trading models and strategies involved in the papers. let's think step by step
+
